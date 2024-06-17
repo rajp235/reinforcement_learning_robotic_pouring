@@ -1,0 +1,317 @@
+Episode 1
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.010989069938659668
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.010010646820068358
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -1.84332646226883
+
+Episode 2
+--- TD Error ---
+Last seen TD Error when updating target Q: -0.0009999871253967285
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.0020000000000000018
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.0009999871253967285
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.0007707476615905762
+Last seen TD Error when updating target Q: 0.010010672569274903
+Last seen TD Error when updating target Q: 0.0
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -1.5098662877082827
+
+Episode 3
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.010239899158477783
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0015299320220947266
+Last seen TD Error when updating target Q: 0.010010633945465086
+Last seen TD Error when updating target Q: 0.0
+--- Reward --- 
+Last reward for this episode: -0.010769869804382326
+Accumulated reward for this episode (totaled rewards): -5.159914776325217
+
+Episode 4
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.001759171485900879
+Last seen TD Error when updating target Q: 0.011010672569274904
+Last seen TD Error when updating target Q: 0.011769844055175782
+Last seen TD Error when updating target Q: 0.011010672569274904
+Last seen TD Error when updating target Q: 0.0007963776588439941
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.0007591843605041504
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0012292265892028809
+Last seen TD Error when updating target Q: 0.01280699872970581
+--- Reward --- 
+Last reward for this episode: -0.010807024478912353
+Accumulated reward for this episode (totaled rewards): -1.4135794339179997
+
+Episode 5
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.010807024478912353
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0532293062210083
+Last seen TD Error when updating target Q: 0.0
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -0.4533199381828308
+
+Episode 6
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.0026612281799316406
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -0.5473675990104675
+
+Episode 7
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.011769856929779055
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.0016834735870361328
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.010769869804382326
+Last seen TD Error when updating target Q: 0.011694159030914308
+Last seen TD Error when updating target Q: 0.0
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -2.558323359966277
+
+Episode 8
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.006037116050720215
+Last seen TD Error when updating target Q: 0.0015671253204345703
+Last seen TD Error when updating target Q: -0.010358380317687987
+Last seen TD Error when updating target Q: 0.011769856929779055
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.011010672569274904
+Last seen TD Error when updating target Q: 0.0020000000000000018
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -2.170604282855986
+
+Episode 9
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 3.719329833984375e-05
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.010267641067504885
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0009999871253967285
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -2.032313057422638
+
+Episode 10
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.010694159030914308
+Last seen TD Error when updating target Q: -0.0003357529640197754
+Last seen TD Error when updating target Q: 0.021239731788635252
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.011807050228118898
+Last seen TD Error when updating target Q: -0.011358354568481444
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -1.9898215956687926
+
+Episode 11
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.011010672569274904
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.0006380081176757812
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.010372664451599123
+Last seen TD Error when updating target Q: 0.000805199146270752
+Last seen TD Error when updating target Q: -0.002454221248626709
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -1.8088352222442623
+
+Episode 12
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.00011849403381347656
+Last seen TD Error when updating target Q: -0.010358380317687987
+Last seen TD Error when updating target Q: 0.01870111036300659
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.017239783287048338
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.010363923549652099
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -2.2298749823570247
+
+Episode 13
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 2.771615982055664e-05
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -8.702278137207031e-06
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+--- Reward --- 
+Last reward for this episode: -0.01176383686065674
+Accumulated reward for this episode (totaled rewards): -2.144319944858549
+
+Episode 14
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0006985664367675781
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.011462403297424317
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -1.7233340978622431
+
+Episode 15
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.011694159030914308
+Last seen TD Error when updating target Q: -0.01146241617202759
+Last seen TD Error when updating target Q: 0.010694133281707763
+Last seen TD Error when updating target Q: -0.00040543079376220703
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.01069417190551758
+Last seen TD Error when updating target Q: 0.0
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -2.804791383266453
+
+Episode 16
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.010763849735260012
+Last seen TD Error when updating target Q: 0.0011630654335021973
+Last seen TD Error when updating target Q: 0.0006088018417358398
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.01020084524154663
+Last seen TD Error when updating target Q: -0.011763798236846923
+--- Reward --- 
+Last reward for this episode: -0.010087098598480226
+Accumulated reward for this episode (totaled rewards): -2.354365588665008
+
+Episode 17
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.010363923549652099
+Last seen TD Error when updating target Q: -0.013239873409271241
+Last seen TD Error when updating target Q: 0.011087085723876955
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.011239912033081056
+Last seen TD Error when updating target Q: 0.011087085723876955
+Last seen TD Error when updating target Q: -0.010694133281707763
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -1.7445559129714963
+
+Episode 18
+--- TD Error ---
+Last seen TD Error when updating target Q: 1.424551010131836e-05
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.016701136112213133
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.003913223743438721
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.010694133281707763
+Last seen TD Error when updating target Q: -0.0005513429641723633
+Last seen TD Error when updating target Q: -0.010694133281707763
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -4.738919472217549
+
+Episode 19
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.0009999871253967285
+Last seen TD Error when updating target Q: -0.010267641067504885
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.011087085723876955
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.0003014206886291504
+Last seen TD Error when updating target Q: 0.030806766986846923
+Last seen TD Error when updating target Q: -0.010763849735260012
+Last seen TD Error when updating target Q: -0.010462390422821044
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -2.1597566428184494
+
+Episode 20
+--- TD Error ---
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.001391198158264162
+Last seen TD Error when updating target Q: 0.010055243968963623
+Last seen TD Error when updating target Q: 0.011694159030914308
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.0009999871253967285
+Last seen TD Error when updating target Q: 0.0
+Last seen TD Error when updating target Q: -0.0006166696548461914
+--- Reward --- 
+Last reward for this episode: 0
+Accumulated reward for this episode (totaled rewards): -2.091650513648986
